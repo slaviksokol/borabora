@@ -4,7 +4,7 @@
 	<description>
 		Bora Bora бронирование площадок
 	</description>
-	<author email="info@borabora.ru" href="http://borabora.ru">Bora Bora booking</author>
+	<author email="info@bora-bora-center.ru" href="http://bora-bora-center.ru">Bora Bora booking</author>
 	<content src="index.html" />
 	<plugin name="cordova-admob-sdk" spec="~0.17.0">
 		<variable name="PLAY_SERVICES_VERSION" value="11.6.2" />
@@ -31,7 +31,7 @@
 	<plugin name="phonegap-plugin-push" spec="~2.1.3"/>
 	<!--<plugin name="phonegap-plugin-barcodescanner" spec="~8.0.0"/>-->
 	<!--<plugin name="cordova-plugin-customurlscheme" source="npm">
-		<param name="URL_SCHEME" value="lvkfoodhunter" />
+		<param name="URL_SCHEME" value="boraboracenter" />
 	</plugin>-->
 	<access origin="*" />
 	<allow-intent href="http://*/*" />

@@ -13,7 +13,7 @@ window.mlfConfig = {
 	version: localStorage.getItem('version'),
 	tmpl: false, //templates
 	loadCnt: false, //таймаут получения контента
-	baseName: 'borabora', //имя базы
+	baseName: 'boraboracenter', //имя базы
 	last_version: false, //последняя версия полученая с сервера обновлений
 	pageUpdateCount: 20, //максимум страниц за раз при обновлении
 	browser: false, //если приложение запущено в браузере, использовать для разработки
@@ -24,7 +24,7 @@ window.mlfConfig = {
 			'LOAD_DATA': 'Загрузить данные',
 			'START_LOADING': 'Загрузка данных',
 			'NO_BASE_START': 'Данные не загружены.',
-			'APP_NAME':'MLife.Расписание.',
+			'APP_NAME':'BoraBora.Бронирование.',
 		}
 	}
 }
