@@ -1,6 +1,6 @@
 window.curentLoadBase = false; //ожидание загрузки данных в кеш-базу
 window.curentLang = 'ru'; //язык по умолчанию
-var startUrl = 'http://dev.lvk29.ru/mobile_app/';
+var startUrl = 'http://bora-bora.j-soft.online/mobile_app/';
 if(localStorage.getItem('startUrl')){
 	startUrl = localStorage.getItem('startUrl');
 }
@@ -13,7 +13,7 @@ window.mlfConfig = {
 	version: localStorage.getItem('version'),
 	tmpl: false, //templates
 	loadCnt: false, //таймаут получения контента
-	baseName: 'foodhunter', //имя базы
+	baseName: 'borabora', //имя базы
 	last_version: false, //последняя версия полученая с сервера обновлений
 	pageUpdateCount: 20, //максимум страниц за раз при обновлении
 	browser: false, //если приложение запущено в браузере, использовать для разработки
