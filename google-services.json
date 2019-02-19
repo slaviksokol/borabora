@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "278198847469",
+    "firebase_url": "https://borabora-29.firebaseio.com",
+    "project_id": "borabora-29",
+    "storage_bucket": "borabora-29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278198847469:android:91c06d8c6c6d8957",
+        "android_client_info": {
+          "package_name": "com.borabora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278198847469-va3lnb2povktui75msurb1c5vr50jqd6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7tpcmMFe6xqTHS5bMJb9s2IUkpFIl4bM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

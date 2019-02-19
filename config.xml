@@ -54,7 +54,7 @@
 		<resource-file src="google-services.json" target="google-services.json" />
 		<allow-intent href="market:*" />
 		<preference name="android-minSdkVersion" value="19" />
-		<preference name="android-targetSdkVersion" value="26" />
+		<preference name="android-targetSdkVersion" value="22" />
 		<preference name="SplashMaintainAspectRatio" value="true" />
 
 		<splash src="res/screen/android/splash.png"/>
