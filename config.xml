@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.borabora" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.borabora" version="0.0.4" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
 	<name>Bora Bora</name>
 	<description>
 		Bora Bora бронирование площадок
@@ -51,6 +51,7 @@
 	<preference name="SplashScreenDelay" value="6000" />
 	<preference name="orientation" value="portrait" />
 	<preference name="StatusBarBackgroundColor" value="#ff9800" />
+	<preference name="StatusBarOverlaysWebView" value="false" />
 	<icon src="icon.png" />
 	<platform name="android">
 		<resource-file src="google-services.json" target="google-services.json" />
