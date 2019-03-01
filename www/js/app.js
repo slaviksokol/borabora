@@ -1,6 +1,6 @@
 window.curentLoadBase = false; //ожидание загрузки данных в кеш-базу
 window.curentLang = 'ru'; //язык по умолчанию
-var startUrl = 'http://bora-bora.j-soft.online/mobile_app/';
+var startUrl = 'http://bora-bora-center.ru/mobile_app/';
 if(localStorage.getItem('startUrl')){
 	startUrl = localStorage.getItem('startUrl');
 }
@@ -560,7 +560,7 @@ function setIndikator(persent){
 	}else{
 	
 		if((!$('.loadingBlock').html()) || (persent=='1')){
-			$('.mlf__wrap').html('<div class="loadingBlock" style="background-image: url(\'img/bg.png\');background-size: contain;"><div class="loadingBlock__title" style="color:#fff">'+getLang('START_LOADING')+'</div><div class="preloader color-white"><span class="preloader-inner"><span class="preloader-inner-gap"></span><span class="preloader-inner-left"><span class="preloader-inner-half-circle"></span></span><span class="preloader-inner-right"><span class="preloader-inner-half-circle"></span></span></span></div></div>');
+			$('.mlf__wrap').html('<div class="loadingBlock" style="background-image: url(\'img/bg.png\');background-size: contain;background-repeat: no-repeat;background-position:center;"><div class="loadingBlock__title" style="color:#fff">'+getLang('START_LOADING')+'</div><div class="preloader color-white"><span class="preloader-inner"><span class="preloader-inner-gap"></span><span class="preloader-inner-left"><span class="preloader-inner-half-circle"></span></span><span class="preloader-inner-right"><span class="preloader-inner-half-circle"></span></span></span></div></div>');
 		}
 	
 		//$('.loadingBlock__indikator').html('<span style="width:'+persent+'%;">'+persent+'%</span>');
