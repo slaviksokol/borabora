@@ -8,6 +8,8 @@
     <array>
       <string>ru</string>
     </array>
+    <key>UILaunchStoryboardName</key>
+    <string>CDVLaunchScreen</string>
 	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
 	<string>ca-app-pub-3940256099942544/2934735716</string>
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
