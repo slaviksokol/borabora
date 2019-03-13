@@ -1405,7 +1405,7 @@ define("cordova/platform", function(require, exports, module) {
 
 module.exports = {
     id: 'browser',
-    cordovaVersion: '3.4.0',
+    cordovaVersion: '5.0.0',
 
     bootstrap: function() {
 
