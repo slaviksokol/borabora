@@ -78,7 +78,7 @@
 		<resource-file src="GoogleService-Info.plist" />
 		<allow-intent href="itms:*" />
 		<allow-intent href="itms-apps:*" />
-		<splash src="res/screen/ios/Default~iphone.png" width="320" height="480"/>
+		<!--<splash src="res/screen/ios/Default~iphone.png" width="320" height="480"/>
 		<splash src="res/screen/ios/Default@2x~iphone.png" width="640" height="960"/>
 		<splash src="res/screen/ios/Default-Portrait~ipad.png" width="768" height="1024"/>
 		<splash src="res/screen/ios/Default-Portrait@2x~ipad.png" width="1536" height="2048"/>
@@ -88,7 +88,8 @@
 		<splash src="res/screen/ios/Default-568h@2x~iphone.png" width="640" height="1136"/>
 		<splash src="res/screen/ios/Default-667h.png" width="750" height="1334"/>
 		<splash src="res/screen/ios/Default-736h.png" width="1242" height="2208"/>
-		<splash src="res/screen/ios/Default-1125h.png" width="1125" height="2436" />
+		<splash src="res/screen/ios/Default-1125h.png" width="1125" height="2436" />-->
+		<splash src="res/screen/ios/Default@2x~universal~anyany.png" />
 		<icon src="res/ios/icon-60@3x.png" width="180" height="180" />
 		<icon src="res/ios/icon-60.png" width="60" height="60" />
 		<icon src="res/ios/icon-60@2x.png" width="120" height="120" />
