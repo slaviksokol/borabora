@@ -143,4 +143,3 @@
 		</edit-config>
 	</platform>
 </widget>
-		keytool -genkey -v -keystore borabora.keystore -alias borabora -keyalg RSA -keysize 2048 -validity 10000
