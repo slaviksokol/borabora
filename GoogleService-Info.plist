@@ -44,5 +44,7 @@
 	<string>1:278198847469:ios:d35f817d8a0a97e3</string>
 	<key>DATABASE_URL</key>
 	<string>https://borabora-29.firebaseio.com</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+    <string>Memory access is optional and is possible to change your photo in the user profile</string>
 </dict>
 </plist>
