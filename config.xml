@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.boraboracenter" version="0.5.3" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.boraboracenter" version="0.5.4" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
 	<name>Bora Bora</name>
 	<description>
 		Bora Bora бронирование площадок
 	</description>
-	<author email="info@bora-bora-center.ru" href="http://bora-bora-center.ru">Bora Bora booking</author>
+	<author email="info@bora-bora-center.ru" href="https://bora-bora-center.ru">Bora Bora Center</author>
 	<content src="index.html" />
 	<plugin name="cordova-admob-sdk" spec="~0.17.0">
 		<variable name="PLAY_SERVICES_VERSION" value="11.6.2" />

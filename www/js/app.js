@@ -1,6 +1,6 @@
 window.curentLoadBase = false; //ожидание загрузки данных в кеш-базу
 window.curentLang = 'ru'; //язык по умолчанию
-var startUrl = 'http://bora-bora-center.ru/mobile_app/';
+var startUrl = 'https://bora-bora-center.ru/mobile_app/';
 if(localStorage.getItem('startUrl')){
 	startUrl = localStorage.getItem('startUrl');
 }
